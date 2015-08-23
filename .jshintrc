@@ -1,0 +1,7 @@
+/**
+ * JSHINT CONFIGURATION
+ */
+{
+  "eqeqeq": true,
+  "curly": true
+}
